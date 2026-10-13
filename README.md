@@ -21,3 +21,11 @@ Power BI, Power Query, DAX.
 
  # What i learned
  This project helped me practise data cleaning, working with large datasets, creating Power BI dashboards and finding useful insights from data and making recommendations.
+
+ ## Dashboard Screenshots
+
+### Bike Sharing Overview
+![Dashboard Page 1](Screenshot%202026-10-13%20222821.png)
+
+### Insights and Recommendations
+![Dashboard Page 2](Screenshot%202026-10-13%20223427.png)

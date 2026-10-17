@@ -19,7 +19,7 @@ Power BI, Power Query, DAX.
 3) Plan bike distribution differently for weekdays and weekend.
 4) Check unusually long journeys to understand whether they are genuine trips, delayed returns or data errors.
 
- # What i learned
+ # What I learned
  This project helped me practise data cleaning, working with large datasets, creating Power BI dashboards and finding useful insights from data and making recommendations.
 
  ## Dashboard Screenshots

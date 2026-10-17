@@ -5,7 +5,7 @@ I found some popular stations are used the most, when bike demand is highest, an
 
 # Tools Used
 Power BI, Power Query, DAX.
-# What i found
+# What I Found
 1) Analysed around 2.47 million bike journeys.
 2) On weekdays, the busiest hours are 7-9 AM and 4-6 PM.
 3) On weekends, bike usage is highest between 11 AM and 6 PM.
